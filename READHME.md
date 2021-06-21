@@ -1,0 +1,1 @@
+This is Seans's first git project!
